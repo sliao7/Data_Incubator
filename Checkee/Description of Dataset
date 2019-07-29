@@ -5,4 +5,6 @@ Source: https://checkee.info
 Data Collection Period: Jan 01, 2008 - Dec 31, 2018
 
 Dataset Description:
-Waiting for the issue of an American visa can be a long journey full of worries. This file contains sample data of visa application processes. 
+This file contains sample data of the U.S. visa application processes. The file includes information on the date of visa 
+application, the date of visa issue, the city, the major of the applicant, the visa status, the visa type, and the waiting 
+times. This data is mainly collected from people whose application underwent a 'Administrative Processing'.
